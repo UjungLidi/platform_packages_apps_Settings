@@ -20,7 +20,7 @@
 
 <!-- Maintainer -->
 <string name="maintainer">Maintainer</string>
- <string name="maintainer_name" translatable="false">Orang Dalam</string>
+<string name="maintainer_name" translatable="false">Orang Dalam</string>
    
 <!-- SELinux Status -->
 <string name="selinux_status">SELinux status</string>
@@ -32,7 +32,11 @@
 <string name="notification_log_summary">Show notifications history log</string>
  
 <!-- Settings intelligence suggestions class -->
-    <string name="config_settingsintelligence_suggestions_class" translatable="false">
-        com.android.settings.intelligence.suggestions.SuggestionService
-    </string>
+<string name="config_settingsintelligence_suggestions_class" translatable="false">
+  com.android.settings.intelligence.suggestions.SuggestionService
+</string>
+    
+<!-- Title for connected TWS device group [CHAR LIMIT=none]-->
+    <string name="connected_tws_device_saved_title">Saved Earbuds</string>
+
 </resources>
